@@ -732,6 +732,7 @@ li:hover .sub-links {
    nav ul{
     font-size: 17px;
     gap: 20px;
+       margin-left: 10px;
      
 }
 nav ul a:hover{
